@@ -1,0 +1,23 @@
+PODS:
+  - FN_Macros (0.1.1):
+    - FNMacros
+  - FNMacros (0.1.3)
+
+DEPENDENCIES:
+  - FN_Macros (from `../`)
+
+SPEC REPOS:
+  https://gitlab.enncloud.cn/FNMobileTeam/FNSpecRepos.git:
+    - FNMacros
+
+EXTERNAL SOURCES:
+  FN_Macros:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FN_Macros: 34f031e4cf3d0880fdf0ae64c54f8469f0dd750c
+  FNMacros: 93539a4aff383e834d28185ebd23009aa02d18a7
+
+PODFILE CHECKSUM: 19fb357639444e068f7b6581cb0427d8f030864a
+
+COCOAPODS: 1.5.0

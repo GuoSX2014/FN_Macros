@@ -1,0 +1,27 @@
+{
+  "name": "FN_Macros",
+  "version": "0.1.1",
+  "summary": "A short description of FN_Macros.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GuoSX2014/FN_Macros",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GuoSX2014": "guoshixu@enn.cn"
+  },
+  "source": {
+    "git": "https://github.com/GuoSX2014/FN_Macros.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FN_Macros/Classes/**/*.{h,m}",
+  "dependencies": {
+    "FNMacros": [
+
+    ]
+  }
+}
